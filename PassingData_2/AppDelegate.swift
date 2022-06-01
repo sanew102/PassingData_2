@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  PassingData_2
-//
-//  Created by Нурым Нагиметов on 01.06.2022.
-//
 
 import UIKit
 
